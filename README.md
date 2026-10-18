@@ -4,7 +4,7 @@
 
 **單一 `index.html`，開啟就能玩。** 不需要安裝、不需要伺服器、不需要網路。
 
-> 🔗 線上遊玩：`https://1111034009.github.io/TAICA-Puzzle_solving/`（部署後把這行換成實際網址）
+> 🔗 線上遊玩：`https://1111034009.github.io/TAICA-Puzzle_solving/`
 
 ---
 
